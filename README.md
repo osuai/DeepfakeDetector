@@ -24,9 +24,12 @@ OSU AI Club project: Deepfakes Detector. More details later.
 16. Write a commit message summerizing changes
 17. Include more detail in descrition if needed
 18. Select "Create a new branch for this commit and start a pull request."
-19. Put a concise and descriptive name in the box.
+19. Put a concise and descriptive name in the box. (see [example](https://github.com/osuai/DeepfakeDetector/pull/8) )
 20. Commit
-21. Accept the Pull Request.
+21. Create the Pull request
+22. Accept the Pull Request
+23. Confirm Merge
+24. Delete Branch
 
 # Data
 Google's dataset instead
