@@ -23,7 +23,10 @@ OSU AI Club project: Deepfakes Detector. More details later.
 15. Paste the contents of your downloaded .ipynb (done in setps 2-4)
 16. Write a commit message summerizing changes
 17. Include more detail in descrition if needed
-18. Commit
+18. Select "Create a new branch for this commit and start a pull request."
+19. Put a concise and descriptive name in the box.
+20. Commit
+21. Accept the Pull Request.
 
 # Data
 Google's dataset instead
