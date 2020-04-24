@@ -11,18 +11,19 @@ OSU AI Club project: Deepfakes Detector. More details later.
 5. Click on DeepFakeDetector.ipynb
 ## Make changes
 6. Make changes
+7. Edit->Clear all outputs
 ## Export to github
-7. File->Download .ipynb
-8. Open the downloaded .ipynb
-9. Copy the contents of the .ipynb
-10. Go to [the github repo](https://github.com/osuai/DeepfakeDetector)
-11. [Navigate to the DeepfakeDetector.ipynb](https://github.com/osuai/DeepfakeDetector/blob/master/DeepFakeDetector.ipynb)
-12. Hit the edit button (above the preview at the top right)
-13. Select all
-14. Paste the contents of your downloaded .ipynb (done in setps 2-4)
-15. Write a commit message summerizing changes
-16. Include more detail in descrition if needed
-17. Commit
+8. File->Download .ipynb
+9. Open the downloaded .ipynb
+10. Copy the contents of the .ipynb
+11. Go to [the github repo](https://github.com/osuai/DeepfakeDetector)
+12. [Navigate to the DeepfakeDetector.ipynb](https://github.com/osuai/DeepfakeDetector/blob/master/DeepFakeDetector.ipynb)
+13. Hit the edit button (above the preview at the top right)
+14. Select all
+15. Paste the contents of your downloaded .ipynb (done in setps 2-4)
+16. Write a commit message summerizing changes
+17. Include more detail in descrition if needed
+18. Commit
 
 # Data
 Google's dataset instead
