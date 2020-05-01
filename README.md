@@ -4,7 +4,7 @@ OSU AI Club project: Deepfakes Detector. More details later.
 
 # Contributing
 ## Open the colab
-1. Go to [Google Colab](colab.research.google.com)
+1. Go to [Google Colab](https://colab.research.google.com)
 2. File->Open Notebook
 3. Github tab
 4. Paste https://github.com/osuai/DeepfakeDetector Into the search box
